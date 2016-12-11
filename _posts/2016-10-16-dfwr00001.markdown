@@ -1,0 +1,7 @@
+---
+layout: post
+title: "DFWR0001 - Diving Airplanes - Expecting You"
+date: 2016-10-16 15:23:48 -0200
+categories: release
+---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quos impedit, sequi, eaque odit saepe consequuntur aliquam debitis, numquam ducimus assumenda iure omnis facere doloribus? Eaque suscipit iure dignissimos! Facilis?
