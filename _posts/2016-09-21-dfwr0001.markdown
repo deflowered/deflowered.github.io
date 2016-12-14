@@ -1,0 +1,12 @@
+---
+layout: release
+title: "Diving Airplanes - Expecting You"
+release_code: "dfwr0001"
+release_artist: "Diving Airplanes"
+release_title: "Expecting You"
+release_type: "track"
+release_spotify_code: "2lX1kAvHnP57OqaKzcbpJH"
+date: 2016-09-21 12:00:01 -0200
+categories: release
+---
+Diving Airplanes é uma dupla de Curitiba que faz um som meio trip hop, meio industrial, meio dark, mas um dark meio que pra dar risada. Começaram em 2016 e lançaram o seu primeiro single pela Deflowered.

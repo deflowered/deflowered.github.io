@@ -18,8 +18,11 @@
     width: 100%;
 
     img {
-        margin: 0 auto;
+        width: 100px;
+        float: left;
         display: block;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     &,
@@ -29,7 +32,6 @@
 }
 
 .site-nav {
-    text-align: center;
     line-height: 56px;
 
     .menu-icon {
@@ -38,7 +40,9 @@
 
     .page-link {
         color: $text-color;
-        line-height: $base-line-height;
+        line-height: 140px;
+
+        margin-left: 60px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -247,4 +251,9 @@
             font-size: 18px;
         }
     }
+}
+
+.release-spotify-embed {
+    float: left;
+    margin-right: 20px;
 }
